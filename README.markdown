@@ -1,4 +1,6 @@
-# github responsive navbar
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/comunit/pen/rQevgd](https://codepen.io/comunit/pen/rQevgd).
+# GitHub Responsive Navbar mini pratice project
+
+![screencapture-127-0-0-1-5500-src-index-html-2020-03-14-01_51_24](https://user-images.githubusercontent.com/60494113/76671597-74119d80-6597-11ea-97d9-1e79f7894ee4.png)
+
 
  
